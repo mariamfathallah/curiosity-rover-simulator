@@ -30,8 +30,8 @@ performance evaluation, and runtime verification with an observer.
 ├── tests_functional/        # Functional tests (.test)
 ├── tests_error_cases/       # Expected-failure tests
 ├── observer_tests/          # Programs for observer verification
-├── terrains_valid/          # Valid terrain examples
-├── terrains_invalid/        # Invalid terrain examples
+├── Terrains_Corrects/          # Valid terrain examples
+├── Terrains_Incorrects/        # Invalid terrain examples
 ├── programs/                # Sample robot programs (.prg)
 ├── performance_results/     # Example performance outputs (optional)
 ├── Makefile
@@ -116,7 +116,7 @@ Checks the runtime property:
 > **A measure must be performed before any forward move.**
 
 ```bash
-./curiosity-obs terrains_valid/terrain_11x9.txt programs/prog1.prg
+./curiosity-obs Terrains_Corrects/terrain_11x9.txt programs/prog1.prg
 ``` 
 
 The observer reports whether the property is respected or violated.
