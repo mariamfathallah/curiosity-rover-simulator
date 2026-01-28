@@ -36,6 +36,22 @@
 *.x86_64
 *.hex
 
+# Executables (project binaries)
+curiosity
+curiosity-test
+curiosity-perf
+curiosity-obs
+test_terrain
+test_robot
+robot_terrain
+test_generation_terrains
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
 # Debug files
 *.dSYM/
 *.su
