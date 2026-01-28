@@ -1,0 +1,21 @@
+20
+Nombre de pas effectues : 162
+Nombre de pas effectues : 152
+Nombre de pas effectues : 95
+Nombre de pas effectues : 143
+Nombre de pas effectues : 161
+Nombre de pas effectues : 86
+Nombre de pas effectues : 200
+Nombre de pas effectues : 227
+Nombre de pas effectues : 123
+-1
+Nombre de pas effectues : 227
+Nombre de pas effectues : 293
+Nombre de pas effectues : 105
+Nombre de pas effectues : 124
+Nombre de pas effectues : 114
+Nombre de pas effectues : 152
+Nombre de pas effectues : 199
+Nombre de pas effectues : 151
+Nombre de pas effectues : 104
+Nombre de pas effectues : 199

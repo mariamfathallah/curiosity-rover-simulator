@@ -1,0 +1,7 @@
+pour programme 1:
+    sort <presque> toujours avec: L=H=9, dObst = 0.70, graine = 4, nb_step_max = 300
+    sort <presque> jamais avec : L=H=25, dObst = 0.40, graine = 4, nb_step_max = 300
+
+pour programme 2:
+    sort <presque> toujours avec: L=H=9, dObst = 0.20, graine = 1, nb_step_max = 400
+    sort <presque> jamais avec : L=H=25, dObst = 0.40, graine = 4, nb_step_max = 300
